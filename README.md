@@ -82,7 +82,7 @@ Carga resistiva (FP = 1)
 
 ![image](https://github.com/user-attachments/assets/ebf2f828-bb50-458b-bd66-e754849248e1)
 
-- √3 = 1,732
+- **√3** = 1,732
 - **V_linha** = tensão entre duas fases (ex: 220V ou 380V)
 - **I_linha** = corrente medida em uma fase
 - **FP** = fator de potência
