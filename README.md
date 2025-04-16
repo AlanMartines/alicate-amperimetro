@@ -119,5 +119,3 @@ FP = 0,92
 - Sempre que possível, use **medidores de potência real** (watts), como wattímetros ou analisadores de energia, para precisão.
 
 ---
-
-Se quiser, posso gerar esse conteúdo em **PDF pronto para imprimir**, ou até com **esquemas e imagens** explicativas. Quer?
